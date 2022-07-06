@@ -40,6 +40,15 @@ Website ini menyediakan tempat pembayaran spp sekolah bagi para siswa di Smk Plu
   - Halaman [beranda, tentang, faq kontak]
 - fitur login dan autentikasi 
   - halaman admin, staff, siswa, petugas
+  - admin
+    - username : admin
+    - password : admin
+  - staff
+    - username : staff@sppie.com
+    - password : 123456
+  - siswa 
+    - username : syauqi@sppie.com
+    - password : 123456
 - Pengelolaan Data SPP
   - Siswa dapat melihat riwayat transaksi pembayaran SPP
   - Operator dapat membuat transaksi dan mencetak pembayaran
