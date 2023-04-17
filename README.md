@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di repository Sppie! 👋🏻</h1>
+<h1 align="center">Selamat datang di repository SPS! 👋🏻</h1>
 
 ![wanime-preview](https://github.com/iwanekaputra/laravel-spp/blob/main/1.png?raw=true)
 
