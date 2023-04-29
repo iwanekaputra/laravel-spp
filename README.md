@@ -57,7 +57,7 @@ Website ini menyediakan tempat pembayaran spp sekolah bagi para siswa yang dibua
 
 <h2 id="demo">🏠 Halaman Demo</h2>
 
-Halaman demo dapat anda akses di [[https://wanimenime.herokuapp.com/](http://wanimenime.herokuapp.com/)](http://sppsekolah.herokuapp.com/) perlu diketahui server dapat tiba tiba mati atau website tidak dapat diakses, oleh karena itu baiknya anda coba di local
+Halaman demo dapat anda akses di [[https://sps-laravel.000webhostapp.com/](https://sps-laravel.000webhostapp.com/)](https://sps-laravel.000webhostapp.com/) perlu diketahui server dapat tiba tiba mati atau website tidak dapat diakses, oleh karena itu baiknya anda coba di local
 
 <p></p>
 
